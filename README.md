@@ -15,14 +15,17 @@ Lifestyle factors: smoking status, work type
 Target variable: stroke (binary indicator)
 
 # Tools Used
-Power BI
-Power Query
+Power BI,
+Power Query,
 DAX
 
 # Data Preparation
 Converted binary indicators (stroke, hypertension, heart disease) into readable categories
+
 Imputed missing BMI values using the median
+
 Renamed columns for clarity and usability
+
 Retained numeric flags for accurate DAX calculations
 
 # Dashboards
