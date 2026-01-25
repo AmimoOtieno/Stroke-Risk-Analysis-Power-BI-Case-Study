@@ -51,7 +51,7 @@ Average Age of Stroke Patients
 
 Includes demographic breakdowns by age, gender, residence type, and marital status.
 
-<img width="1439" height="804" alt="Screenshot 2026-01-24 221902" src="https://github.com/user-attachments/assets/36c5aa28-24d3-4951-ad43-6de8d576c717" />
+<img width="1438" height="804" alt="image" src="https://github.com/user-attachments/assets/7a043eb5-cd41-440c-9782-771cc6607706" />
 
 # 2. Risk Factor Analysis
 
@@ -64,7 +64,8 @@ Impact of hypertension and heart disease
 
 Key Influencers visual highlighting BMI thresholds
 
-<img width="1435" height="803" alt="Screenshot 2026-01-24 221929" src="https://github.com/user-attachments/assets/1fd359bb-2f5e-4527-8c42-c6d1cb712cf5" />
+<img width="1434" height="803" alt="image" src="https://github.com/user-attachments/assets/3365ed60-a171-4b5f-8b0c-d1b4e88baf16" />
+
 
 
 # Key Insights
