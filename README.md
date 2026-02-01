@@ -1,6 +1,12 @@
 # Stroke-Risk-Analysis-Power-BI-Case-Study
 This project analyses healthcare data to identify key risk factors associated with stroke and provide actionable insights to support preventive healthcare decision-making. The analysis is presented through interactive Power BI dashboards designed for both executive and analytical audiences.
 
+# Dashboard Preview
+<img width="1438" height="804" alt="image" src="https://github.com/user-attachments/assets/7a043eb5-cd41-440c-9782-771cc6607706" />
+
+<img width="1434" height="803" alt="image" src="https://github.com/user-attachments/assets/3365ed60-a171-4b5f-8b0c-d1b4e88baf16" />
+
+
 # Business Objective
 To help healthcare stakeholders:
 
@@ -51,7 +57,6 @@ Average Age of Stroke Patients
 
 Includes demographic breakdowns by age, gender, residence type, and marital status.
 
-<img width="1438" height="804" alt="image" src="https://github.com/user-attachments/assets/7a043eb5-cd41-440c-9782-771cc6607706" />
 
 # 2. Risk Factor Analysis
 
@@ -63,9 +68,6 @@ Stroke cases by smoking status
 Impact of hypertension and heart disease
 
 Key Influencers visual highlighting BMI thresholds
-
-<img width="1434" height="803" alt="image" src="https://github.com/user-attachments/assets/3365ed60-a171-4b5f-8b0c-d1b4e88baf16" />
-
 
 
 # Key Insights
